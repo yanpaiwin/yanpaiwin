@@ -1,7 +1,10 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Hi there 👋 My name is Yan Paing Win
+🎓 I'm a student at Computer University (Pathein) majoring in Computer Science.  
+💡 Passionate about software development, problem-solving, and technology-driven innovation.  
+💻 Skilled in [e.g., PHP, Javascript, MySQL].  
+🌱 Currently learning advanced concepts in databases, software engineering, and web technologies.  
+🚀 Open to collaborating on academic and open-source projects.
+
 <!--
 **yanpaiwin/yanpaiwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
